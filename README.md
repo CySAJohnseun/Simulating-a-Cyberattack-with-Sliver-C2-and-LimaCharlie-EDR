@@ -1,0 +1,1 @@
+# Simulating-a-Cyberattack-with-Sliver-C2-and-LimaCharlie-EDR
